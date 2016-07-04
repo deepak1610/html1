@@ -1,0 +1,42 @@
+#mydiv1{
+  position: fixed ; 
+  height: auto;
+  width: auto;
+  left: 60px;
+  bottom: 240px;
+  font-size: 18px;
+
+}
+
+
+#ordered_list_div{
+  position: absolute;
+  height: inherit;
+  width: inherit;
+  left: 100px;
+  up: 120px;
+  background-color: blue;
+  font-size: 21px;
+  font-family: sans-serif;
+}
+
+.h11{
+  font-size: 32px;
+  color: red;
+  text-decoration: underline;
+
+}
+
+#Link{
+  color: magenta;
+  font-size: 14px;
+  position: fixed;
+}
+
+#ordered_list{
+  color: inherit;
+  position: absolute;
+  font-family: cursive;
+  font-size: 24px;
+  background-color: inherit;
+}
